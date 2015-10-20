@@ -1,0 +1,15 @@
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\Breazley.Pages.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\Breazley.Pages.pdb
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\Breazley.AutomationFramework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\WebDriver.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\log4net.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\WebDriver.Support.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\nunit.framework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\Breazley.AutomationFramework.pdb
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\WebDriver.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\log4net.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\WebDriver.Support.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\bin\Debug\nunit.framework.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\obj\Debug\Breazley.Pages.csprojResolveAssemblyReference.cache
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\obj\Debug\Breazley.Pages.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.Pages\obj\Debug\Breazley.Pages.pdb

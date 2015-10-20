@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beazley.AutomationFramework", "Beazley.AutomationFramework\Beazley.AutomationFramework.csproj", "{E878DA6F-DA87-4E95-AF59-AE5AF3BDB5F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configuration", "Configuration", "{7E388C84-8E66-4E61-B437-AC4993CC3F47}"
+	ProjectSection(SolutionItems) = preProject
+		beazley.config = beazley.config
+		log4net.config = log4net.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beazley.Pages", "Beazley.Pages\Beazley.Pages.csproj", "{3F4E2301-1B1D-4A66-94E3-6A3EF5EEFD2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beazley.Tests", "Beazley.Tests\Beazley.Tests.csproj", "{060B006E-55C5-4056-911A-BA614FB05A24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E878DA6F-DA87-4E95-AF59-AE5AF3BDB5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E878DA6F-DA87-4E95-AF59-AE5AF3BDB5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E878DA6F-DA87-4E95-AF59-AE5AF3BDB5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E878DA6F-DA87-4E95-AF59-AE5AF3BDB5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F4E2301-1B1D-4A66-94E3-6A3EF5EEFD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F4E2301-1B1D-4A66-94E3-6A3EF5EEFD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F4E2301-1B1D-4A66-94E3-6A3EF5EEFD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F4E2301-1B1D-4A66-94E3-6A3EF5EEFD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{060B006E-55C5-4056-911A-BA614FB05A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060B006E-55C5-4056-911A-BA614FB05A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060B006E-55C5-4056-911A-BA614FB05A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060B006E-55C5-4056-911A-BA614FB05A24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

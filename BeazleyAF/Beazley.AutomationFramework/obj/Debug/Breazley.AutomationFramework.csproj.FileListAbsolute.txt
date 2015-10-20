@@ -1,0 +1,12 @@
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\Breazley.AutomationFramework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\Breazley.AutomationFramework.pdb
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\log4net.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\nunit.framework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\WebDriver.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\WebDriver.Support.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\log4net.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\nunit.framework.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\WebDriver.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\bin\Debug\WebDriver.Support.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\obj\Debug\Breazley.AutomationFramework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Breazley.AutomationFramework\obj\Debug\Breazley.AutomationFramework.pdb

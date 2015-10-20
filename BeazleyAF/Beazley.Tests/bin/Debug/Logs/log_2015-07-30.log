@@ -1,0 +1,344 @@
+***30 Jul 12:47:17 [INFO] - No LogFileOutput defined. Skipping FileAppender output path override...  
+***30 Jul 12:47:19 [INFO] - Loaded Driver!  
+***30 Jul 12:47:19 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [https://beazleyrulebookuat.azurewebsites.net]   
+***30 Jul 12:47:21 [INFO] - IsLoaded = False, pageTitle = data:, contains myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - Page Load(): <<<<< Started Navigation Guard  
+***30 Jul 12:47:35 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT contains myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - Page Load(): Ended Navigation Guard >>>>>  
+***30 Jul 12:47:35 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - Waiting until _title contains myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - Wait ended for _title to contain myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:35 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [https://beazleyrulebookuat.azurewebsites.net] . Elapsed = 00:00:15.8425019  
+***30 Jul 12:47:35 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A01_UiElementsMyBeazleyLogin  
+***30 Jul 12:47:35 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:35 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:35 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:35 [INFO] - Start click: on element LinkLogoBeazley from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:35 [INFO] - performStaleTest = true -> Performing StaleTest before Clicking button LinkLogoBeazley  
+***30 Jul 12:47:35 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:35 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:35 [INFO] - ExpectedConditions_IsNotStale LinkLogoBeazley = True  
+***30 Jul 12:47:35 [INFO] - Stale test for non-clickable element.  
+***30 Jul 12:47:37 [INFO] - ExpectedConditions_IsNotStale -> stale test for LinkLogoBeazley was successful!  
+***30 Jul 12:47:37 [INFO] - Clicking -> [LinkLogoBeazley]  
+***30 Jul 12:47:37 [INFO] - Clicking -> [LinkLogoBeazley]  
+***30 Jul 12:47:38 [INFO] - >>> Triggered Navigation for Beazley.Pages.MyBeazleyLoginPage : Clicked LinkLogoBeazley!  
+***30 Jul 12:47:38 [INFO] - Before Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:47:38 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)]   
+***30 Jul 12:47:38 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT contains myBeazley UAT  
+***30 Jul 12:47:38 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:38 [INFO] - Waiting until _title contains myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:38 [INFO] - Wait ended for _title to contain myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:38 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:38 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)] . Elapsed = 00:00:00.0350206  
+***30 Jul 12:47:38 [INFO] - After Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:47:38 [INFO] - Finish click: on element LinkLogoBeazley from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:38 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:47:38 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:38 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:38 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:38 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:38 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:39 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:39 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:47:39 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:47:39 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:47:39 [INFO] - Click(): Page alert popup status = False.  
+***30 Jul 12:47:39 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A01_UiElementsMyBeazleyLogin  
+***30 Jul 12:47:39 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A02_CheckUiLoginForm  
+***30 Jul 12:47:39 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A02_CheckUiLoginForm  
+***30 Jul 12:47:39 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A03_CheckEmptyInputError  
+***30 Jul 12:47:39 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:39 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:39 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:39 [INFO] - Start click: on element LinkLogoBeazley from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:39 [INFO] - performStaleTest = true -> Performing StaleTest before Clicking button LinkLogoBeazley  
+***30 Jul 12:47:39 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:39 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:39 [INFO] - ExpectedConditions_IsNotStale LinkLogoBeazley = True  
+***30 Jul 12:47:39 [INFO] - Stale test for non-clickable element.  
+***30 Jul 12:47:41 [INFO] - ExpectedConditions_IsNotStale -> stale test for LinkLogoBeazley was successful!  
+***30 Jul 12:47:41 [INFO] - Clicking -> [LinkLogoBeazley]  
+***30 Jul 12:47:41 [INFO] - Clicking -> [LinkLogoBeazley]  
+***30 Jul 12:47:42 [INFO] - >>> Triggered Navigation for Beazley.Pages.MyBeazleyLoginPage : Clicked LinkLogoBeazley!  
+***30 Jul 12:47:42 [INFO] - Before Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:47:42 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)]   
+***30 Jul 12:47:42 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT contains myBeazley UAT  
+***30 Jul 12:47:42 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:42 [INFO] - Waiting until _title contains myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:42 [INFO] - Wait ended for _title to contain myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:47:42 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:47:42 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)] . Elapsed = 00:00:00.0243797  
+***30 Jul 12:47:42 [INFO] - After Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:47:42 [INFO] - Finish click: on element LinkLogoBeazley from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:42 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:47:42 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:47:42 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:47:42 [INFO] - Click(): Page alert popup status = False.  
+***30 Jul 12:47:42 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:42 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:42 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:42 [INFO] - Start click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:43 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:47:43 [INFO] - Finish click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:43 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:47:43 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:47:43 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:47:43 [INFO] - Click(): Page alert popup status = False  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:43 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A03_CheckEmptyInputError  
+***30 Jul 12:47:43 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A04_CheckInvalidLogin  
+***30 Jul 12:47:43 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:43 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:43 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:43 [INFO] - ExpectedConditions_IsVisibleAndEnabled UsernameField = True  
+***30 Jul 12:47:43 [INFO] - VisibleEnabled test for UsernameField  
+***30 Jul 12:47:43 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:43 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for UsernameField was successful!  
+***30 Jul 12:47:43 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:43 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:43 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:43 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:43 [INFO] - ExpectedConditions_IsVisibleAndEnabled PasswordField = True  
+***30 Jul 12:47:43 [INFO] - VisibleEnabled test for PasswordField  
+***30 Jul 12:47:43 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:43 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for PasswordField was successful!  
+***30 Jul 12:47:43 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:43 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:43 [INFO] - Start click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:44 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:47:45 [INFO] - Finish click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:45 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:47:45 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:47:45 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:47:45 [INFO] - Click(): Page alert popup status = False  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:45 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:45 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled ErrorLoginMessage = True  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test for ErrorLoginMessage  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for ErrorLoginMessage was successful!  
+***30 Jul 12:47:45 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.A04_CheckInvalidLogin  
+***30 Jul 12:47:45 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.User_Can_Login  
+***30 Jul 12:47:45 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:45 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled UsernameField = True  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test for UsernameField  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for UsernameField was successful!  
+***30 Jul 12:47:45 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:45 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:45 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled PasswordField = True  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test for PasswordField  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for PasswordField was successful!  
+***30 Jul 12:47:45 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:45 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:45 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:45 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled UsernameField = True  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test for UsernameField  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for UsernameField was successful!  
+***30 Jul 12:47:45 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:45 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:45 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:45 [INFO] - ExpectedConditions_IsVisibleAndEnabled PasswordField = True  
+***30 Jul 12:47:45 [INFO] - VisibleEnabled test for PasswordField  
+***30 Jul 12:47:46 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:47:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for PasswordField was successful!  
+***30 Jul 12:47:46 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:47:46 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:47:46 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:47:46 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:47:46 [INFO] - Start click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:46 [INFO] - performStaleTest = true -> Performing StaleTest before Clicking button BtnSignIn  
+***30 Jul 12:47:46 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:47:46 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:47:46 [INFO] - ExpectedConditions_IsNotStale BtnSignIn = True  
+***30 Jul 12:47:46 [INFO] - Stale test for BtnSignIn  
+***30 Jul 12:47:46 [INFO] - Stale test - displayed:True, enabled:True  
+***30 Jul 12:47:46 [INFO] - ExpectedConditions_IsNotStale -> stale test for BtnSignIn was successful!  
+***30 Jul 12:47:46 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:47:46 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:47:47 [INFO] - >>> Triggered Navigation for Beazley.Pages.MyBeazleyHomePage : Clicked BtnSignIn!  
+***30 Jul 12:47:47 [INFO] - Before Page MyBeazleyHomePage instantiation  
+***30 Jul 12:47:47 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyHomePage] - [myBeazley UAT - Quotes] - [(null)]   
+***30 Jul 12:47:47 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT - Quotes contains myBeazley UAT - Quotes  
+***30 Jul 12:47:47 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT - Quotes to myBeazley UAT - Quotes  
+***30 Jul 12:47:47 [INFO] - Waiting until _title contains myBeazley UAT - Quotes... current Title = myBeazley UAT - Quotes  
+***30 Jul 12:47:47 [INFO] - Wait ended for _title to contain myBeazley UAT - Quotes... current Title = myBeazley UAT - Quotes  
+***30 Jul 12:47:47 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT - Quotes to myBeazley UAT - Quotes  
+***30 Jul 12:47:47 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyHomePage] - [myBeazley UAT - Quotes] - [(null)] . Elapsed = 00:00:00.0342897  
+***30 Jul 12:47:47 [INFO] - After Page MyBeazleyHomePage instantiation  
+***30 Jul 12:47:47 [INFO] - Finish click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:47:47 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:47:47 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:47:48 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:47:48 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:47:48 [INFO] - Click(): Page alert popup status = False.  
+***30 Jul 12:47:48 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyLoginPageTest.User_Can_Login  
+***30 Jul 12:47:48 [WARN] - Closing Driver!  
+***30 Jul 12:49:28 [INFO] - No LogFileOutput defined. Skipping FileAppender output path override...  
+***30 Jul 12:49:29 [INFO] - Loaded Driver!  
+***30 Jul 12:49:29 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [https://beazleyrulebookuat.azurewebsites.net]   
+***30 Jul 12:49:31 [INFO] - IsLoaded = False, pageTitle = data:, contains myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - Page Load(): <<<<< Started Navigation Guard  
+***30 Jul 12:49:46 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT contains myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - Page Load(): Ended Navigation Guard >>>>>  
+***30 Jul 12:49:46 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - Waiting until _title contains myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - Wait ended for _title to contain myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:49:46 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [https://beazleyrulebookuat.azurewebsites.net] . Elapsed = 00:00:16.6507453  
+***30 Jul 12:49:46 [INFO] - # Starting Test : Beazley.Tests.SmokeTests.BeazleyHomePageTest.User_Can_SignOut  
+***30 Jul 12:49:46 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:46 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:49:46 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:49:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled UsernameField = True  
+***30 Jul 12:49:46 [INFO] - VisibleEnabled test for UsernameField  
+***30 Jul 12:49:46 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:49:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for UsernameField was successful!  
+***30 Jul 12:49:46 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:49:46 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:46 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:49:46 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:49:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled PasswordField = True  
+***30 Jul 12:49:46 [INFO] - VisibleEnabled test for PasswordField  
+***30 Jul 12:49:46 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:49:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for PasswordField was successful!  
+***30 Jul 12:49:46 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:49:46 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:49:46 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:46 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:49:46 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:49:46 [INFO] - ExpectedConditions_IsVisibleAndEnabled UsernameField = True  
+***30 Jul 12:49:46 [INFO] - VisibleEnabled test for UsernameField  
+***30 Jul 12:49:47 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:49:47 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for UsernameField was successful!  
+***30 Jul 12:49:47 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:47 [INFO] - Waiting for element to become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:47 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:49:47 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:49:47 [INFO] - ExpectedConditions_IsVisibleAndEnabled PasswordField = True  
+***30 Jul 12:49:47 [INFO] - VisibleEnabled test for PasswordField  
+***30 Jul 12:49:47 [INFO] - VisibleEnabled test - displayed:True, enabled:True  
+***30 Jul 12:49:47 [INFO] - ExpectedConditions_IsVisibleAndEnabled -> visibleEnabled test for PasswordField was successful!  
+***30 Jul 12:49:47 [INFO] - Element has become enabled. Page (myBeazley UAT) = https://beazleyrulebookuat.azurewebsites.net  
+***30 Jul 12:49:47 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:49:47 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:49:47 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:49:47 [INFO] - Start click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:49:47 [INFO] - performStaleTest = true -> Performing StaleTest before Clicking button BtnSignIn  
+***30 Jul 12:49:47 [INFO] - Started: Overriden implicit wait to 00:00:01.   
+***30 Jul 12:49:47 [INFO] - Ended: Restored implicit wait to 00:01:00.   
+***30 Jul 12:49:47 [INFO] - ExpectedConditions_IsNotStale BtnSignIn = True  
+***30 Jul 12:49:47 [INFO] - Stale test for BtnSignIn  
+***30 Jul 12:49:47 [INFO] - Stale test - displayed:True, enabled:True  
+***30 Jul 12:49:47 [INFO] - ExpectedConditions_IsNotStale -> stale test for BtnSignIn was successful!  
+***30 Jul 12:49:47 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:49:47 [INFO] - Clicking -> [BtnSignIn]  
+***30 Jul 12:49:49 [INFO] - >>> Triggered Navigation for Beazley.Pages.MyBeazleyHomePage : Clicked BtnSignIn!  
+***30 Jul 12:49:49 [INFO] - Before Page MyBeazleyHomePage instantiation  
+***30 Jul 12:49:49 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyHomePage] - [myBeazley UAT - Quotes] - [(null)]   
+***30 Jul 12:49:49 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT - Quotes contains myBeazley UAT - Quotes  
+***30 Jul 12:49:49 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT - Quotes to myBeazley UAT - Quotes  
+***30 Jul 12:49:49 [INFO] - Waiting until _title contains myBeazley UAT - Quotes... current Title = myBeazley UAT - Quotes  
+***30 Jul 12:49:49 [INFO] - Wait ended for _title to contain myBeazley UAT - Quotes... current Title = myBeazley UAT - Quotes  
+***30 Jul 12:49:49 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT - Quotes to myBeazley UAT - Quotes  
+***30 Jul 12:49:49 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyHomePage] - [myBeazley UAT - Quotes] - [(null)] . Elapsed = 00:00:00.0268460  
+***30 Jul 12:49:50 [INFO] - After Page MyBeazleyHomePage instantiation  
+***30 Jul 12:49:50 [INFO] - Finish click: on element BtnSignIn from page Beazley.Pages.MyBeazleyLoginPage  
+***30 Jul 12:49:50 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:49:50 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:49:50 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:49:50 [INFO] - Click(): Page alert popup status = False.  
+***30 Jul 12:49:50 [INFO] - WaitForPendingAjaxCalls(): Start  
+***30 Jul 12:49:50 [INFO] - WaitForPendingAjaxCalls(): Waiting for pending Ajax calls. Active = 0  
+***30 Jul 12:49:50 [INFO] - WaitForPendingAjaxCalls(): Finished ajax calls wait...  
+***30 Jul 12:49:50 [INFO] - Start click: on element logoff from page Beazley.Pages.MyBeazleyHomePage  
+***30 Jul 12:49:50 [INFO] - Clicking -> [logoff]  
+***30 Jul 12:49:50 [INFO] - Clicking -> [logoff]  
+***30 Jul 12:49:52 [INFO] - >>> Triggered Navigation for Beazley.Pages.MyBeazleyLoginPage : Clicked logoff!  
+***30 Jul 12:49:52 [INFO] - Before Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:49:52 [INFO] - Starting Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)]   
+***30 Jul 12:49:52 [INFO] - IsLoaded = True, pageTitle = myBeazley UAT contains myBeazley UAT  
+***30 Jul 12:49:52 [INFO] - WaitForTitleChange(): Starting wait for _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:49:52 [INFO] - Waiting until _title contains myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:49:52 [INFO] - Wait ended for _title to contain myBeazley UAT... current Title = myBeazley UAT  
+***30 Jul 12:49:52 [INFO] - WaitForTitleChange(): Finished _title update from myBeazley UAT to myBeazley UAT  
+***30 Jul 12:49:52 [INFO] - Finished Page Load(): Loading Page [Beazley.Pages.MyBeazleyLoginPage] - [myBeazley UAT] - [(null)] . Elapsed = 00:00:00.0295642  
+***30 Jul 12:49:52 [INFO] - After Page MyBeazleyLoginPage instantiation  
+***30 Jul 12:49:52 [INFO] - Finish click: on element logoff from page Beazley.Pages.MyBeazleyHomePage  
+***30 Jul 12:49:52 [INFO] - WaitForAlert(): Waiting for alert to appear...  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): start loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): Waiting for condition timed Out after 00:01:00. The expected condition was not met!  
+***30 Jul 12:49:52 [INFO] - WaitForAlertAsLongAs(): exit loop  
+***30 Jul 12:49:52 [INFO] - WaitForAlert(): Waiting for alert ended.  
+***30 Jul 12:49:52 [INFO] - Click(): Page alert popup status = False.  
+***30 Jul 12:49:52 [INFO] - # Finished Test : Beazley.Tests.SmokeTests.BeazleyHomePageTest.User_Can_SignOut  
+***30 Jul 12:49:52 [WARN] - Closing Driver!  

@@ -1,0 +1,42 @@
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.pdb
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\log4net.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\nunit.framework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\WebDriver.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\log4net.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\nunit.framework.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\WebDriver.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.xml
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.dll
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.pdb
+E:\Projects\Beazley\Breazley.AutomationFramework\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.csprojResolveAssemblyReference.cache
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\drivers\chromedriver.exe
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\drivers\IEDriverServer.exe
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.pdb
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\log4net.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\nunit.framework.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\log4net.xml
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\nunit.framework.xml
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.xml
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.xml
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.dll
+D:\_work\Beazley.AutomationFramework3\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.pdb
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\drivers\chromedriver.exe
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\drivers\IEDriverServer.exe
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\Beazley.AutomationFramework.pdb
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\log4net.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\nunit.framework.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\log4net.xml
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\nunit.framework.xml
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.xml
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\bin\Debug\WebDriver.Support.xml
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.csprojResolveAssemblyReference.cache
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.dll
+D:\4. Beazley - PCG\Beazley.AutomationFramework3\Beazley.AutomationFramework\obj\Debug\Beazley.AutomationFramework.pdb
